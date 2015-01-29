@@ -1,0 +1,8 @@
+<map id="State" name="State">
+<area shape="rect" id="node2" href="$classGameState.html" title="{GameState\n||+ GameState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="5,248,120,369"/>
+<area shape="rect" id="node3" href="$classLoadingState.html" title="{LoadingState\n||+ LoadingState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="145,248,263,369"/>
+<area shape="rect" id="node4" href="$classMenuState.html" title="{MenuState\n||+ MenuState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="288,248,403,369"/>
+<area shape="rect" id="node5" href="$classPauseState.html" title="{PauseState\n||+ PauseState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="427,248,541,369"/>
+<area shape="rect" id="node6" href="$classSettingsState.html" title="{SettingsState\n||+ SettingsState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="566,248,687,369"/>
+<area shape="rect" id="node7" href="$classTitleState.html" title="{TitleState\n||+ TitleState()\l+ draw()\l+ update()\l+ handleEvent()\l}" alt="" coords="712,248,827,369"/>
+</map>

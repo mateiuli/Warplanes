@@ -1,0 +1,4 @@
+<map id="Entity" name="Entity">
+<area shape="rect" id="node6" href="$classAircraft.html" title="{Aircraft\n||+ Aircraft()\l+ drawCurrent()\l+ updateCurrent()\l+ getCategory()\l+ getMaxSpeed()\l+ updateMovementPattern()\l}" alt="" coords="110,645,294,796"/>
+<area shape="rect" id="node2" href="$classSceneNode.html" title="{SceneNode\n||+ SceneNode()\l+ attachChild()\l+ detachChild()\l+ update()\l+ getWorldTransform()\l+ getWorldPosition()\l+ getCategory()\l+ onCommand()\l}" alt="" coords="125,131,279,311"/>
+</map>

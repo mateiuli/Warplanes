@@ -1,0 +1,6 @@
+<map id="SceneNode" name="SceneNode">
+<area shape="rect" id="node5" href="$classEntity.html" title="{Entity\n||+ Entity()\l+ setVelocity()\l+ setVelocity()\l+ accelerate()\l+ accelerate()\l+ getVelocity()\l+ updateCurrent()\l+ repair()\l+ damage()\l+ destroy()\l+ getHitpoints()\l+ isDestroyed()\l}" alt="" coords="35,359,159,597"/>
+<area shape="rect" id="node7" href="$classSpriteNode.html" title="{SpriteNode\n||+ SpriteNode()\l+ SpriteNode()\l}" alt="" coords="184,432,291,524"/>
+<area shape="rect" id="node8" href="$classTextNode.html" title="{TextNode\n||+ TextNode()\l+ setString()\l}" alt="" coords="315,432,413,524"/>
+<area shape="rect" id="node6" href="$classAircraft.html" title="{Aircraft\n||+ Aircraft()\l+ drawCurrent()\l+ updateCurrent()\l+ getCategory()\l+ getMaxSpeed()\l+ updateMovementPattern()\l}" alt="" coords="5,645,189,796"/>
+</map>

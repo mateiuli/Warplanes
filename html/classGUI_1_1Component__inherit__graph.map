@@ -1,0 +1,5 @@
+<map id="GUI::Component" name="GUI::Component">
+<area shape="rect" id="node5" href="$classGUI_1_1Button.html" title="{GUI::Button\n||+ Button()\l+ setCallback()\l+ setText()\l+ setToggle()\l+ isSelectable()\l+ select()\l+ deselect()\l+ activate()\l+ deactivate()\l+ handleEvent()\l}" alt="" coords="5,388,120,597"/>
+<area shape="rect" id="node6" href="$classGUI_1_1Container.html" title="{GUI::Container\n||+ Container()\l+ pack()\l+ isSelectable()\l+ handleEvent()\l+ createBackground()\l+ createBackground()\l}" alt="" coords="144,417,291,568"/>
+<area shape="rect" id="node7" href="$classGUI_1_1Label.html" title="{GUI::Label\n||+ Label()\l+ isSelectable()\l+ handleEvent()\l+ setText()\l+ alignText()\l}" alt="" coords="315,425,429,561"/>
+</map>
